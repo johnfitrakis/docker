@@ -1,0 +1,10 @@
+{
+  "name": "docker-centos-fitakis",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Test Docker app on CentOS using docker",
+  "author": "John Fitrakis <johnfitrakis@gmail.com>",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
